@@ -10,4 +10,4 @@ print("enter a number")
 local n = io.read("*n") -- number
 print(factorial(n))
 
-
+print(arg[0])
